@@ -1,0 +1,21 @@
+[uDD::Log][2023-07-27 00:32:14] Start
+[uDD::Log][2023-07-27 00:32:14] OS Version    : 10.0
+[uDD::Log][2023-07-27 00:32:14] Build Number  : 22621
+[uDD::Log][2023-07-27 00:32:14] Service Pack  : 
+[uDD::Log][2023-07-27 00:32:14] Graphics Card [0] : NVIDIA GeForce RTX 3070
+[uDD::Log][2023-07-27 00:32:14]   > Monitor[0] : \\.\DISPLAY1
+[uDD::Log][2023-07-27 00:32:14]   > Monitor[1] : \\.\DISPLAY2
+[uDD::Log][2023-07-27 00:32:14] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2023-07-27 00:32:14] Monitor::Initialized() =>
+[uDD::Log][2023-07-27 00:32:14]     ID    : 0
+[uDD::Log][2023-07-27 00:32:14]     Size  : (1920, 1080)
+[uDD::Log][2023-07-27 00:32:14]     DPI   : (81, 81)
+[uDD::Log][2023-07-27 00:32:14]     Rot   : Landscape
+[uDD::Log][2023-07-27 00:32:14] Duplicator::Initialize() => OK.
+[uDD::Log][2023-07-27 00:32:14] Monitor::Initialized() =>
+[uDD::Log][2023-07-27 00:32:14]     ID    : 1
+[uDD::Log][2023-07-27 00:32:14]     Size  : (1920, 1080)
+[uDD::Log][2023-07-27 00:32:14]     DPI   : (81, 81)
+[uDD::Log][2023-07-27 00:32:14]     Rot   : Landscape
+[uDD::Log][2023-07-27 00:32:14] Duplicator::Initialize() => OK.
+[uDD::Log][2023-07-27 00:32:19] Stop
