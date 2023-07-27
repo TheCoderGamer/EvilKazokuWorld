@@ -1,0 +1,19 @@
+{
+    "name": "VRSL.Addons",
+    "references": [
+        "GUID:c78fbc11badb87949afced0f13251750",
+        "GUID:d6fac9ce561b83d43bd0e44e55bfaf78",
+        "GUID:fdd0fabca6c1f06439b59586bbe3a4dd",
+        "GUID:7547219be89abee4ba3cf7f48b516b7b",
+        "GUID:84265b35cca3905448e623ef3903f0ff"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
