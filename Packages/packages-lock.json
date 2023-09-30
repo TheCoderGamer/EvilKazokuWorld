@@ -1,9 +1,9 @@
 {
   "dependencies": {
     "com.acchosen.vr-stage-lighting": {
-      "version": "file:C:/Users/TheCo/Desktop/com.acchosen.vr-stage-lighting",
+      "version": "file:com.acchosen.vr-stage-lighting",
       "depth": 0,
-      "source": "local",
+      "source": "embedded",
       "dependencies": {}
     },
     "com.llealloo.audiolink": {
